@@ -77,17 +77,25 @@ The full software lifecycle is covered in the project:
 
 ## 🧰 Technologies Used
 
-> _Details on specific technologies (e.g., Flutter, React Native, Firebase, etc.) can be added here if needed._
+### Frontend
+- Framework: Ionic + Angular
+- Language: TypeScript
+- Tooling:
+    Node.js (latest LTS recommended)
+    Ionic CLI (ionic serve --port=8102 for local development)
+  #### Deployment: 
+    Automatically deployed to Vercel on every push to the main branch
+
+### Backend
+- Framework: Spring Boot
+- Language: Java (JDK 11 or newer)
+- Build Tool: Maven (mvn clean install)
+  #### Deployment: 
+    Automatically deployed to Heroku on every push to the dev branch
+
+### Database
+- System: MySQL
+- Hosting: freesql.com
+- Initialization: Manual execution of DDL script required before first use
 
 ---
-
-## 👩‍💻 Author
-
-**Viktoriya Pepieva Georgieva**  
-Master’s thesis, [Your University Name]
-
----
-
-## 📝 License
-
-> Specify license if applicable (e.g., MIT, Apache 2.0)
