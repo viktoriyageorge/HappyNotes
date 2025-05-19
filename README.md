@@ -1,5 +1,7 @@
 # Mobile Application for Tracking the Execution of Daily Activities
 
+Demo: https://drive.google.com/file/d/1BKIb7CSxYBD7ZPaYe16csJYo2Hv6BoTk/view?usp=share_link
+
 ## 📱 Overview
 
 This repository contains the source code for the mobile application developed as part of Viktoriya Pepieva Georgieva's master's thesis on the topic:
